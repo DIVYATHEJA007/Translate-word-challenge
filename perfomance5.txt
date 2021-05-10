@@ -1,0 +1,2 @@
+Execution time is: 0.1469187000000005
+Used memory is bytes: 189.48046875
